@@ -2,7 +2,7 @@ Hive (fork of PIVX) integration/staging repository
 ======================================
 
 
-It is recommended [use the shell script](https://github.com/HIVENetwork1/HIVEinstall) to install a Hive Masternode on a Linux server running Ubuntu 14.04 or 16.04
+It is recommended [use the shell script](https://github.com/HIVENetwork1/HIVE/blob/master/setupmn.sh) to install a Hive Masternode on a Linux server running Ubuntu 14.04 or 16.04
 
 ***
 
