@@ -2,7 +2,7 @@ Hive (fork of PIVX) integration/staging repository
 ======================================
 
 
-It is recommended [use the shell script](https://github.com/HIVEproject/HIVEinstall) to install a Hive Masternode on a Linux server running Ubuntu 14.04 or 16.04
+It is recommended [use the shell script](https://github.com/HIVENetwork1/HIVEinstall) to install a Hive Masternode on a Linux server running Ubuntu 14.04 or 16.04
 
 ***
 
@@ -19,7 +19,7 @@ Installation of libraries (using root user):
 Cloning the repository and compiling (use any user with the sudo group):
 
     cd
-    git clone https://github.com/HIVEproject/Hive.git
+    git clone https://github.com/HIVENetwork1/Hive.git
     cd Hive
     ./autogen.sh
     ./configure
@@ -45,7 +45,7 @@ Demon status:
 
 All binaries for different operating systems, you can download in the releases repository:
 
-https://github.com/HIVEproject/Hive/releases
+https://github.com/HIVENetwork1/Hive/releases
 
 P2P port: 1234, RPC port: 5523
 -
